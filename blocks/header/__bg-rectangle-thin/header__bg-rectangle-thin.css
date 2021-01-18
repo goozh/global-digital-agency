@@ -1,0 +1,11 @@
+.header__bg-rectangle-thin {
+  position: absolute;
+  width: 956.92px;
+  height: 53.02px;
+  left: 931px;
+  top: 360px;
+
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 100%), #56CCF2;
+  border-radius: 500px;
+  transform: rotate(-65deg);
+}
