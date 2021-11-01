@@ -1,0 +1,9 @@
+.header__image {
+width: 1146px;
+height: 640px;
+left: 227px;
+top: 528.01px;
+
+background: linear-gradient(0deg, rgba(37, 55, 87, 0.1), rgba(37, 55, 87, 0.1)), url(rawpixel-com-384904.jpg);
+background-blend-mode: multiply, normal;
+}

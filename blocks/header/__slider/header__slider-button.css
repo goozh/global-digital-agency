@@ -1,0 +1,20 @@
+.header__slider-button {
+  position: absolute;
+  width: 81px;
+  height: 64px;
+  top: 285px;
+  background: #FCC304 no-repeat center;
+  border: 0;
+}
+
+.header__slider-button_right {
+  left: -1px;
+  border-radius: 0 50px 50px 0;
+  background-image: url(../../../images/vector_right.svg);
+}
+
+.header__slider-button_left {
+  left: -81px;
+  border-radius: 50px 0  0 50px;
+  background-image: url(../../../images/vector_left.svg);
+}

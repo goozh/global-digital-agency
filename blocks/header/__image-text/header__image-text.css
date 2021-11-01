@@ -1,0 +1,10 @@
+.header__image-text {
+  position: absolute;
+  bottom: 70px;
+  left: 98px;
+  max-width: 264px;
+  font-weight: 900;
+  font-size: 19.6px;
+  line-height: 1.4;
+  color: #ffffff;
+}

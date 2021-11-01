@@ -1,0 +1,14 @@
+.header__more-button {
+  width: 226px;
+  height: 56px;
+  margin: 42px 0 0;
+  border: 0;
+  outline: 0;
+  border-radius: 64px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #253757
+}

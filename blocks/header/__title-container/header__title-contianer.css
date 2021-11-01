@@ -1,0 +1,5 @@
+.header__title-container {
+  display: flex;
+  flex-direction: column;
+  margin: 85px 0 0 325px;
+}

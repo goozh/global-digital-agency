@@ -1,0 +1,10 @@
+.header__social-container {
+  position: absolute;
+  right: -82px;
+  display: flex;
+  margin: 0 0 0 64px;
+  padding: 0;
+  list-style: none;
+  writing-mode: vertical-lr;
+  align-self: center;
+}

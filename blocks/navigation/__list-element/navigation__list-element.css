@@ -1,0 +1,7 @@
+.navigation__list-element {
+  margin-right: 63px;
+}
+
+.navigation__list-element:last-of-type {
+  margin: 0;
+}

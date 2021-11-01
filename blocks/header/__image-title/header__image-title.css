@@ -1,0 +1,10 @@
+.header__image-title {
+  position: absolute;
+  bottom: 135px;
+  left: 98px;
+  font-weight: 800;
+  font-size: 12px;
+  line-height: 1.5;
+  letter-spacing: 2px;
+  color: #56CCF2
+}
