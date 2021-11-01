@@ -1,0 +1,7 @@
+.services__card-container {
+  display: flex;
+  justify-content: center;
+  margin: 136px auto;
+  padding: 0;
+  list-style: none;
+}
