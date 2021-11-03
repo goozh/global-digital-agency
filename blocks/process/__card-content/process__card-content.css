@@ -1,0 +1,10 @@
+.process__card-content {
+  width: 240px;
+  height: 256px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+  background-color: #ffffff;
+}

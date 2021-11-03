@@ -1,0 +1,10 @@
+.process__card-line {
+  position: absolute;
+  width: 422px;
+  height: 16px;
+  border-radius: 500px;
+  transform: rotate(-65deg);
+  z-index: 1;
+  top: 49%;
+  left: -38%;
+}

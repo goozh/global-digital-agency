@@ -1,7 +1,7 @@
 .services__card-container {
   display: flex;
   justify-content: center;
-  margin: 136px auto;
+  margin: 136px auto 0;
   padding: 0;
   list-style: none;
 }

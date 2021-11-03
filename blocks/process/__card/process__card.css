@@ -1,0 +1,9 @@
+.process__card {
+  position: absolute;
+  width: 240px;
+  height: 390px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 1;
+}
