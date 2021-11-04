@@ -1,0 +1,9 @@
+.features__content-item {
+  display: flex;
+  align-items: center;
+  margin: 0 0 64px;
+}
+
+.features__content-item:last-of-type {
+  margin: 0;
+}

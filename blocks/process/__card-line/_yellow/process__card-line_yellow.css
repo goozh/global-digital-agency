@@ -1,3 +1,3 @@
 .process__card-line_yellow {
-  background-color: #FCC304;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 100%), #FCC304;
 }

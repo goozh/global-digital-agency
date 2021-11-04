@@ -1,0 +1,9 @@
+.features__background-triangle {
+  position: absolute;
+  border: 340px solid transparent;
+  border-left: 166px solid #56CCF2;
+  border-top: 731px solid #56CCF2;
+  width: 0;
+  top: 0;
+  left: 629px;
+}
