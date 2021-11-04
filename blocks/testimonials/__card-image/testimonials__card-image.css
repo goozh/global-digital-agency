@@ -1,0 +1,11 @@
+.testimonials__card-image {
+  position: absolute;
+  width: 123.67px;
+  height: 64px;
+  left: 97px;
+  top: 134px;
+  background: url(../../../images/20368a6fbd87ca1d35e853e30299acf1.jpg), linear-gradient(180deg, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 100%), #56CCF2;
+  border-radius: 500px;
+  transform: rotate(-112deg);
+  overflow: hidden;
+}

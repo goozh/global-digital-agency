@@ -1,0 +1,8 @@
+.testimonials__card-photo {
+  position: relative;
+  top: -55px;
+  left: 16px;
+  width: 110px;
+  height: 168px;
+  transform: rotate(112deg);
+}

@@ -1,0 +1,11 @@
+.testimonials__oval {
+  position: absolute;
+  background-color: #03D542;
+  width: 1599.69px;
+  height: 728.95px;
+  top: -527px;
+  right: -953px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 100%), #03D542;
+  border-radius: 500px;
+  transform: rotate(-65.1deg);
+}

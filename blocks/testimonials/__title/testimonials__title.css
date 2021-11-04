@@ -1,9 +1,9 @@
-.features__title {
-  margin: 19px 0 0;
+.testimonials__title {
   font-style: normal;
   font-weight: 900;
   font-size: 32px;
   line-height: 1.4;
   color: #253757;
   max-width: 362px;
+  margin: 19px 0 0;
 }

@@ -1,0 +1,11 @@
+.testimonials__card-position {
+  margin: 0;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 12.6px;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #56CCF2;
+}

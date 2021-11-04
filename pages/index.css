@@ -72,3 +72,15 @@
 @import url(../blocks/features/__item-text/features__item-text.css);
 @import url(../blocks/features/__image/features__image.css);
 @import url(../blocks/features/__background-triangle/features__background-triangle.css);
+@import url(../blocks/testimonials/testimonials.css);
+@import url(../blocks/testimonials/__title/testimonials__title.css);
+@import url(../blocks/testimonials/__oval/testimonials__oval.css);
+@import url(../blocks/testimonials/__card-container/testimonials__card-container.css);
+@import url(../blocks/testimonials/__card/testimonials__card.css);
+@import url(../blocks/testimonials/__card-oval/testimonials__card-oval.css);
+@import url(../blocks/testimonials/__card-image/testimonials__card-image.css);
+@import url(../blocks/testimonials/__card-photo/testimonials__card-photo.css);
+@import url(../blocks/testimonials/__card-text/testimonials__card-text.css);
+@import url(../blocks/testimonials/__card-line/testimonials__card-line.css);
+@import url(../blocks/testimonials/__card-name/testimonials__card-name.css);
+@import url(../blocks/testimonials/__card-position/testimonials__card-position.css);

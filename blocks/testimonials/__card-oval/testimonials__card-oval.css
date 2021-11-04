@@ -1,0 +1,20 @@
+.testimonials__card-oval {
+  margin: 94px 0 0;
+  width: 161.9px;
+  height: 64px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 100%), #56CCF2;
+  border-radius: 500px;
+  transform: rotate(-65deg);
+}
+
+.testimonials__card-oval_blue {
+  background-color: #56CCF2;
+}
+
+.testimonials__card-oval_yellow {
+  background-color: #FCC304;
+}
+
+.testimonials__card-oval_red {
+  background-color: #F25656;
+}

@@ -1,0 +1,10 @@
+.testimonials__card-text {
+  margin: 85px 0 0;
+  max-width: 250px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 14.4px;
+  line-height: 1.4;
+  text-align: center;
+  color: #253757;
+}

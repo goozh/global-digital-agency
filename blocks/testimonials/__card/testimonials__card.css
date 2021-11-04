@@ -1,0 +1,15 @@
+.testimonials__card {
+  position: relative;
+  width: 314px;
+  height: 464px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-right: 78px;
+  /* box-shadow: 1px 1px 1px rgb(233, 232, 232); */
+}
+
+.testimonials__card:last-of-type {
+  margin-right: 0;
+}
