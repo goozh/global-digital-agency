@@ -1,12 +1,9 @@
 .footer__link {
-  margin: 0 63px 0 0;
+  margin: 0;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 1.5;
   color: #253757;
-}
-
-.footer__link:last-of-type {
-  margin: 2px;
+  text-decoration: none;
 }
