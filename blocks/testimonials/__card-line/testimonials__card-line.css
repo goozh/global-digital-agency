@@ -2,5 +2,15 @@
   margin-top: 31px;
   width: 64px;
   height: 2px;
+}
+
+.testimonials__card-line_blue {
   background-color: #56CCF2;
+}
+
+.testimonials__card-line_yellow {
+  background-color: #FCC304;
+}
+.testimonials__card-line_red {
+  background-color: #F25656;
 }

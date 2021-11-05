@@ -9,3 +9,16 @@
   text-transform: uppercase;
   color: #56CCF2;
 }
+
+.testimonials__card-position_blue {
+  color: #56CCF2;
+}
+
+.testimonials__card-position_yellow {
+  color: #FCC304;
+}
+
+.testimonials__card-position_red {
+  color: #F25656;
+}
+

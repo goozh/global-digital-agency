@@ -2,7 +2,22 @@
   position: relative;
   top: -55px;
   left: 16px;
+  transform: rotate(112deg);
+}
+
+.testimonials__card-photo_first {
   width: 110px;
   height: 168px;
-  transform: rotate(112deg);
+}
+
+.testimonials__card-photo_second {
+  width: 156%;
+  left: -34px;
+  top: -43px;
+}
+
+.testimonials__card-photo_third {
+  width: 147%;
+  top: -29px;
+  left: -29px;
 }
