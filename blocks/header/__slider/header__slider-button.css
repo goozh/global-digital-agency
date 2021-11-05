@@ -5,6 +5,7 @@
   top: 285px;
   background: #FCC304 no-repeat center;
   border: 0;
+  cursor: pointer;
 }
 
 .header__slider-button_right {

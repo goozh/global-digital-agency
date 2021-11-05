@@ -10,5 +10,6 @@
   line-height: 1.5;
   text-align: center;
   letter-spacing: 1px;
-  color: #253757
+  color: #253757;
+  cursor: pointer;
 }
