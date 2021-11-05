@@ -1,0 +1,13 @@
+.footer__contact-us-subtitle {
+  margin: 42px 0 0;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 12.6px;
+  line-height: 150%;
+  letter-spacing: 2px;
+}
+
+.footer__contact-us-subtitle_first {
+  margin: 45px 0 0;
+}

@@ -1,0 +1,19 @@
+.footer__social-link {
+  display: block;
+  width: 36px;
+  height: 36px;
+  background-repeat: no-repeat;
+  /* margin: 0; */
+}
+
+.footer__social-link_twitter {
+  background-image: url(../../../images/twitter-logo.svg);
+}
+
+.footer__social-link_instagram {
+  background-image: url(../../../images/instagram-logo.svg);
+}
+
+.footer__social-link_facebook {
+  background-image: url(../../../images/facebook-logo.svg);
+}

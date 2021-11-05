@@ -1,0 +1,5 @@
+.footer__contact-us-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 362px;
+}
