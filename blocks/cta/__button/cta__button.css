@@ -1,0 +1,16 @@
+.cta__button {
+  display: block;
+  margin: 54px auto 0;
+  width: 226px;
+  height: 56px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #FFFFFF;
+  background: #2F80ED;
+  border-radius: 64px;
+  border: none;
+}

@@ -7,7 +7,9 @@
   justify-content: flex-start;
   align-items: center;
   margin-right: 78px;
-  /* box-shadow: 1px 1px 1px rgb(233, 232, 232); */
+  -webkit-box-shadow: 10px 10px 23px -7px rgba(34, 60, 80, 0.2);
+  -moz-box-shadow: 10px 10px 23px -7px rgba(34, 60, 80, 0.2);
+  box-shadow: 10px 10px 23px -7px rgba(34, 60, 80, 0.2);
 }
 
 .testimonials__card:last-of-type {

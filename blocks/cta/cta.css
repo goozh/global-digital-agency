@@ -1,0 +1,7 @@
+.cta {
+  padding: 142px 0 0;
+  box-sizing: border-box;
+  min-height: 608px;
+  background: url(../../images/cta_background.svg) no-repeat;
+  background-position-y: -19px;
+}

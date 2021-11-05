@@ -84,3 +84,7 @@
 @import url(../blocks/testimonials/__card-line/testimonials__card-line.css);
 @import url(../blocks/testimonials/__card-name/testimonials__card-name.css);
 @import url(../blocks/testimonials/__card-position/testimonials__card-position.css);
+@import url(../blocks/cta/cta.css);
+@import url(../blocks/cta/__title/cta__title.css);
+@import url(../blocks/cta/__text/cta__text.css);
+@import url(../blocks/cta/__button/cta__button.css);
